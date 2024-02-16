@@ -1,4 +1,5 @@
 function splitTable(selector, columnNumber) {
+    alert();
     document.addEventListener("DOMContentLoaded", function () {
         const tableHTML = document.querySelector(selector);
         let groupValues = {};
