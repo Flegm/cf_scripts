@@ -1,38 +1,56 @@
+function createHeader(lvl, text, pageTitle) {
+    try {
+        var id = "id-" + pageTitle + "-" + text;
+        id = id.replace(/ /g, "");
+        const header = $("<" + lvl + "/>").text(text).attr("id", id);
+        return header[0];
+    } catch (error) {
+        console.log("Error in createHeader function:", error);
+    }
+}
+
+function createTable(tableHead, arrTableBody) {
+    try {
+        const table = $("<table>").addClass("confluenceTable");
+        table.append(tableHead);
+        arrTableBody.forEach(function (row) {
+            table.append($(row).clone());
+        });
+        return table;
+    } catch (error) {
+        console.log("Error in createTable function:", error);
+    }
+}
+
 function splitTable(selector, columnNumber) {
-    alert();
-    document.addEventListener("DOMContentLoaded", function () {
-        const tableHTML = document.querySelector(selector);
-        let groupValues = {};
-         
-        Array.from(tableHTML.getElementsByTagName("tr")).forEach(function (row, index) {
-            if (index !== 0) { // Skip the header row
-                const groupName = row.getElementsByTagName('td')[columnNumber].textContent;
-                if (!groupValues[groupName]) {
-                    groupValues[groupName] = [];
+    try {
+        $(document).ready(function () {
+            const sourceTable = $(selector)[0];
+            let groupColumnValue = {};
+
+            $(sourceTable).find("tr").each(function (index, row) {
+                if (index !== 0) { // Skip the header row
+                    const columnValue = $(row).find('td').eq(columnNumber).text();
+                    if (!groupColumnValue[columnValue]) {
+                        groupColumnValue[columnValue] = [];
+                    }
+                    groupColumnValue[columnValue].push(row);
                 }
-                groupValues[groupName].push(row);
+            });
+
+            const mainContent = $("#main-content");
+            const pageTitle = $("#title-text").text();
+
+            for (const columnValue in groupColumnValue) {
+                const header = $(createHeader('h2', columnValue, pageTitle));
+                mainContent.append(header);
+
+                const newTable = createTable($(sourceTable).find("tr")[0].cloneNode(true),
+                    groupColumnValue[columnValue]);
+                mainContent.append(newTable);
             }
         });
-         
-        var mainContent = document.getElementById("main-content");
-        const titleText = document.getElementById("title-text").outerText;
-         
-        for (const groupName in groupValues) {
-            const header = document.createElement('h2');
-            header.textContent = groupName;
-            var newId = "id-" + titleText + "-" + groupName;
-            header.id = newId.replaceAll(" ", "");
-            mainContent.insertAdjacentElement("beforeEnd", header);
-             
-            const newTable = document.createElement('table');
-            newTable.classList.add("confluenceTable");
-            newTable.appendChild(tableHTML.rows[0].cloneNode(true)); // Clone the header row
-             
-            groupValues[groupName].forEach(function (row) {
-                newTable.appendChild(row.cloneNode(true));
-            });
-             
-            mainContent.insertAdjacentElement("beforeEnd", newTable);
-        }
-    });
+    } catch (error) {
+        console.log("Error in splitTable function:", error);
+    }
 }
