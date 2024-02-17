@@ -93,7 +93,3 @@ function addLinkToColumn(link, tableSelector, columnNumber) {
             });
     });
 }
-
-// Пример использования функции
-const cfLink = "https://confluence.rt.ru/pages/viewpage.action?pageId=668685625";
-addLinkToColumn(cfLink, '[data-name="formula_product_set"] > div > table', 5);
