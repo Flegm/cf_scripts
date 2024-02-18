@@ -1,0 +1,1586 @@
+[
+    {
+      "id": 1,
+      "name": "salesPlan",
+      "sequence_number": 1,
+      "name-2": "ШПД"
+    },
+    {
+      "id": 1,
+      "name": "salesPlan",
+      "sequence_number": 2,
+      "name-2": "ОТА"
+    },
+    {
+      "id": 1,
+      "name": "salesPlan",
+      "sequence_number": 3,
+      "name-2": "VPN"
+    },
+    {
+      "id": 1,
+      "name": "salesPlan",
+      "sequence_number": 4,
+      "name-2": "ВАТС"
+    },
+    {
+      "id": 1,
+      "name": "salesPlan",
+      "sequence_number": 5,
+      "name-2": "8-800"
+    },
+    {
+      "id": 1,
+      "name": "salesPlan",
+      "sequence_number": 6,
+      "name-2": "WiFi"
+    },
+    {
+      "id": 1,
+      "name": "salesPlan",
+      "sequence_number": 7,
+      "name-2": "Видео"
+    },
+    {
+      "id": 1,
+      "name": "salesPlan",
+      "sequence_number": 8,
+      "name-2": "ИТВ для ЮЛ"
+    },
+    {
+      "id": 1,
+      "name": "salesPlan",
+      "sequence_number": 9,
+      "name-2": "ТВ для Гостиниц"
+    },
+    {
+      "id": 1,
+      "name": "salesPlan",
+      "sequence_number": 10,
+      "name-2": "ТВ экраны"
+    },
+    {
+      "id": 1,
+      "name": "salesPlan",
+      "sequence_number": 12,
+      "name-2": "М2М"
+    },
+    {
+      "id": 1,
+      "name": "salesPlan",
+      "sequence_number": 13,
+      "name-2": "Новый доход, руб"
+    },
+    {
+      "id": 2,
+      "name": "salesSummary",
+      "sequence_number": 1,
+      "name-2": "Новый доход, руб"
+    },
+    {
+      "id": 2,
+      "name": "salesSummary",
+      "sequence_number": 2,
+      "name-2": "Всего услуг, шт"
+    },
+    {
+      "id": 2,
+      "name": "salesSummary",
+      "sequence_number": 3,
+      "name-2": "ШПД"
+    },
+    {
+      "id": 2,
+      "name": "salesSummary",
+      "sequence_number": 4,
+      "name-2": "ОТА"
+    },
+    {
+      "id": 2,
+      "name": "salesSummary",
+      "sequence_number": 5,
+      "name-2": "VPN"
+    },
+    {
+      "id": 2,
+      "name": "salesSummary",
+      "sequence_number": 6,
+      "name-2": "ВАТС"
+    },
+    {
+      "id": 2,
+      "name": "salesSummary",
+      "sequence_number": 7,
+      "name-2": "8-800"
+    },
+    {
+      "id": 2,
+      "name": "salesSummary",
+      "sequence_number": 9,
+      "name-2": "WiFi"
+    },
+    {
+      "id": 2,
+      "name": "salesSummary",
+      "sequence_number": 9,
+      "name-2": "Видео"
+    },
+    {
+      "id": 2,
+      "name": "salesSummary",
+      "sequence_number": 10,
+      "name-2": "ИТВ для ЮЛ"
+    },
+    {
+      "id": 2,
+      "name": "salesSummary",
+      "sequence_number": 12,
+      "name-2": "ТВ экраны"
+    },
+    {
+      "id": 2,
+      "name": "salesSummary",
+      "sequence_number": 13,
+      "name-2": "MVNO"
+    },
+    {
+      "id": 2,
+      "name": "salesSummary",
+      "sequence_number": 14,
+      "name-2": "М2М"
+    },
+    {
+      "id": 2,
+      "name": "salesSummary",
+      "sequence_number": 15,
+      "name-2": "Другие"
+    },
+    {
+      "id": 3,
+      "name": "Другие",
+      "sequence_number": 1,
+      "name-2": "ВЦОД"
+    },
+    {
+      "id": 3,
+      "name": "Другие",
+      "sequence_number": 2,
+      "name-2": "Лид"
+    },
+    {
+      "id": 3,
+      "name": "Другие",
+      "sequence_number": 3,
+      "name-2": "Чат"
+    },
+    {
+      "id": 3,
+      "name": "Другие",
+      "sequence_number": 4,
+      "name-2": "Колтрекинг"
+    },
+    {
+      "id": 3,
+      "name": "Другие",
+      "sequence_number": 5,
+      "name-2": "Прочие"
+    },
+    {
+      "id": 3,
+      "name": "Другие",
+      "sequence_number": 6,
+      "name-2": "MLM"
+    },
+    {
+      "id": 3,
+      "name": "Другие",
+      "sequence_number": 7,
+      "name-2": "Умный офис"
+    },
+    {
+      "id": 3,
+      "name": "Другие",
+      "sequence_number": 8,
+      "name-2": "Мониторинг транспорта"
+    },
+    {
+      "id": 4,
+      "name": "Первичные сервисы",
+      "sequence_number": 1,
+      "name-2": "ШПД"
+    },
+    {
+      "id": 4,
+      "name": "Первичные сервисы",
+      "sequence_number": 2,
+      "name-2": "ОТА"
+    },
+    {
+      "id": 4,
+      "name": "Первичные сервисы",
+      "sequence_number": 3,
+      "name-2": "VPN"
+    },
+    {
+      "id": 4,
+      "name": "Первичные сервисы",
+      "sequence_number": 4,
+      "name-2": "ВАТС"
+    },
+    {
+      "id": 4,
+      "name": "Первичные сервисы",
+      "sequence_number": 5,
+      "name-2": "8-800"
+    },
+    {
+      "id": 4,
+      "name": "Первичные сервисы",
+      "sequence_number": 6,
+      "name-2": "WiFi"
+    },
+    {
+      "id": 4,
+      "name": "Первичные сервисы",
+      "sequence_number": 7,
+      "name-2": "Видео"
+    },
+    {
+      "id": 4,
+      "name": "Первичные сервисы",
+      "sequence_number": 8,
+      "name-2": "ИТВ для ЮЛ"
+    },
+    {
+      "id": 4,
+      "name": "Первичные сервисы",
+      "sequence_number": 9,
+      "name-2": "ТВ для Гостиниц"
+    },
+    {
+      "id": 4,
+      "name": "Первичные сервисы",
+      "sequence_number": 10,
+      "name-2": "ТВ экраны"
+    },
+    {
+      "id": 4,
+      "name": "Первичные сервисы",
+      "sequence_number": 18,
+      "name-2": "М2М"
+    },
+    {
+      "id": 5,
+      "name": "Доход",
+      "sequence_number": 1,
+      "name-2": "Новый доход, руб"
+    },
+    {
+      "id": 7,
+      "name": "manualSales",
+      "sequence_number": 1,
+      "name-2": "ШПД"
+    },
+    {
+      "id": 7,
+      "name": "manualSales",
+      "sequence_number": 2,
+      "name-2": "ОТА"
+    },
+    {
+      "id": 7,
+      "name": "manualSales",
+      "sequence_number": 3,
+      "name-2": "VPN"
+    },
+    {
+      "id": 7,
+      "name": "manualSales",
+      "sequence_number": 4,
+      "name-2": "ВАТС"
+    },
+    {
+      "id": 7,
+      "name": "manualSales",
+      "sequence_number": 5,
+      "name-2": "8-800"
+    },
+    {
+      "id": 7,
+      "name": "manualSales",
+      "sequence_number": 6,
+      "name-2": "WiFi"
+    },
+    {
+      "id": 7,
+      "name": "manualSales",
+      "sequence_number": 7,
+      "name-2": "Видео"
+    },
+    {
+      "id": 7,
+      "name": "manualSales",
+      "sequence_number": 8,
+      "name-2": "ИТВ для ЮЛ"
+    },
+    {
+      "id": 7,
+      "name": "manualSales",
+      "sequence_number": 9,
+      "name-2": "ТВ для Гостиниц"
+    },
+    {
+      "id": 7,
+      "name": "manualSales",
+      "sequence_number": 10,
+      "name-2": "ТВ экраны"
+    },
+    {
+      "id": 7,
+      "name": "manualSales",
+      "sequence_number": 12,
+      "name-2": "MVNO"
+    },
+    {
+      "id": 7,
+      "name": "manualSales",
+      "sequence_number": 13,
+      "name-2": "М2М"
+    },
+    {
+      "id": 7,
+      "name": "manualSales",
+      "sequence_number": 14,
+      "name-2": "ВЦОД"
+    },
+    {
+      "id": 7,
+      "name": "manualSales",
+      "sequence_number": 18,
+      "name-2": "Умный офис"
+    },
+    {
+      "id": 7,
+      "name": "manualSales",
+      "sequence_number": 20,
+      "name-2": "SEG"
+    },
+    {
+      "id": 7,
+      "name": "manualSales",
+      "sequence_number": 20,
+      "name-2": "Прочие"
+    },
+    {
+      "id": 7,
+      "name": "manualSales",
+      "sequence_number": 141,
+      "name-2": "ВКС"
+    },
+    {
+      "id": 7,
+      "name": "manualSales",
+      "sequence_number": 144,
+      "name-2": "Прочие новые продукты"
+    },
+    {
+      "id": 8,
+      "name": "Всего услуг",
+      "sequence_number": 20,
+      "name-2": "ШПД"
+    },
+    {
+      "id": 8,
+      "name": "Всего услуг",
+      "sequence_number": 21,
+      "name-2": "ОТА"
+    },
+    {
+      "id": 8,
+      "name": "Всего услуг",
+      "sequence_number": 22,
+      "name-2": "VPN"
+    },
+    {
+      "id": 8,
+      "name": "Всего услуг",
+      "sequence_number": 23,
+      "name-2": "ВАТС"
+    },
+    {
+      "id": 8,
+      "name": "Всего услуг",
+      "sequence_number": 24,
+      "name-2": "8-800"
+    },
+    {
+      "id": 8,
+      "name": "Всего услуг",
+      "sequence_number": 25,
+      "name-2": "WiFi"
+    },
+    {
+      "id": 8,
+      "name": "Всего услуг",
+      "sequence_number": 26,
+      "name-2": "Видео"
+    },
+    {
+      "id": 8,
+      "name": "Всего услуг",
+      "sequence_number": 27,
+      "name-2": "ИТВ для ЮЛ"
+    },
+    {
+      "id": 8,
+      "name": "Всего услуг",
+      "sequence_number": 28,
+      "name-2": "ТВ для Гостиниц"
+    },
+    {
+      "id": 8,
+      "name": "Всего услуг",
+      "sequence_number": 29,
+      "name-2": "ТВ экраны"
+    },
+    {
+      "id": 9,
+      "name": "Справочник периодических начислений",
+      "sequence_number": 30,
+      "name-2": "ШПД"
+    },
+    {
+      "id": 9,
+      "name": "Справочник периодических начислений",
+      "sequence_number": 31,
+      "name-2": "ОТА"
+    },
+    {
+      "id": 9,
+      "name": "Справочник периодических начислений",
+      "sequence_number": 32,
+      "name-2": "VPN"
+    },
+    {
+      "id": 9,
+      "name": "Справочник периодических начислений",
+      "sequence_number": 33,
+      "name-2": "MVNO"
+    },
+    {
+      "id": 9,
+      "name": "Справочник периодических начислений",
+      "sequence_number": 34,
+      "name-2": "ВАТС"
+    },
+    {
+      "id": 9,
+      "name": "Справочник периодических начислений",
+      "sequence_number": 35,
+      "name-2": "8-800"
+    },
+    {
+      "id": 9,
+      "name": "Справочник периодических начислений",
+      "sequence_number": 36,
+      "name-2": "М2М"
+    },
+    {
+      "id": 9,
+      "name": "Справочник периодических начислений",
+      "sequence_number": 37,
+      "name-2": "WiFi"
+    },
+    {
+      "id": 9,
+      "name": "Справочник периодических начислений",
+      "sequence_number": 38,
+      "name-2": "Видео"
+    },
+    {
+      "id": 9,
+      "name": "Справочник периодических начислений",
+      "sequence_number": 39,
+      "name-2": "ИТВ для ЮЛ"
+    },
+    {
+      "id": 9,
+      "name": "Справочник периодических начислений",
+      "sequence_number": 40,
+      "name-2": "ТВ для Гостиниц"
+    },
+    {
+      "id": 9,
+      "name": "Справочник периодических начислений",
+      "sequence_number": 41,
+      "name-2": "ТВ экраны"
+    },
+    {
+      "id": 9,
+      "name": "Справочник периодических начислений",
+      "sequence_number": 42,
+      "name-2": "ВЦОД"
+    },
+    {
+      "id": 10,
+      "name": "План GAP_0002 менеджер",
+      "sequence_number": 43,
+      "name-2": "Ежемесячная выручка по новым услугам, руб."
+    },
+    {
+      "id": 10,
+      "name": "План GAP_0002 менеджер",
+      "sequence_number": 44,
+      "name-2": "Ежемесячная выручка по традиционным услугам, руб."
+    },
+    {
+      "id": 10,
+      "name": "План GAP_0002 менеджер",
+      "sequence_number": 45,
+      "name-2": "Разовая выручка, руб."
+    },
+    {
+      "id": 11,
+      "name": "План GAP_0002 руководитель",
+      "sequence_number": 46,
+      "name-2": "Ежемесячная выручка по новым услугам, руб."
+    },
+    {
+      "id": 11,
+      "name": "План GAP_0002 руководитель",
+      "sequence_number": 47,
+      "name-2": "Ежемесячная выручка по традиционным услугам, руб."
+    },
+    {
+      "id": 11,
+      "name": "План GAP_0002 руководитель",
+      "sequence_number": 48,
+      "name-2": "Разовая выручка, руб."
+    },
+    {
+      "id": 11,
+      "name": "План GAP_0002 руководитель",
+      "sequence_number": 49,
+      "name-2": "Новые ИНН, шт."
+    },
+    {
+      "id": 12,
+      "name": "Факт GAP_0002 менеджер",
+      "sequence_number": 50,
+      "name-2": "Ежемесячная выручка по новым услугам, руб."
+    },
+    {
+      "id": 12,
+      "name": "Факт GAP_0002 менеджер",
+      "sequence_number": 51,
+      "name-2": "Ежемесячная выручка по традиционным услугам, руб."
+    },
+    {
+      "id": 12,
+      "name": "Факт GAP_0002 менеджер",
+      "sequence_number": 52,
+      "name-2": "Разовая выручка, руб."
+    },
+    {
+      "id": 13,
+      "name": "Факт GAP_0002 руководитель",
+      "sequence_number": 53,
+      "name-2": "Ежемесячная выручка по новым услугам, руб."
+    },
+    {
+      "id": 13,
+      "name": "Факт GAP_0002 руководитель",
+      "sequence_number": 54,
+      "name-2": "Ежемесячная выручка по традиционным услугам, руб."
+    },
+    {
+      "id": 13,
+      "name": "Факт GAP_0002 руководитель",
+      "sequence_number": 55,
+      "name-2": "Разовая выручка, руб."
+    },
+    {
+      "id": 13,
+      "name": "Факт GAP_0002 руководитель",
+      "sequence_number": 56,
+      "name-2": "Новые ИНН, шт."
+    },
+    {
+      "id": 14,
+      "name": "Ежемес. по новым",
+      "sequence_number": 57,
+      "name-2": "ВАТС"
+    },
+    {
+      "id": 14,
+      "name": "Ежемес. по новым",
+      "sequence_number": 58,
+      "name-2": "8-800"
+    },
+    {
+      "id": 14,
+      "name": "Ежемес. по новым",
+      "sequence_number": 59,
+      "name-2": "WiFi"
+    },
+    {
+      "id": 14,
+      "name": "Ежемес. по новым",
+      "sequence_number": 60,
+      "name-2": "Видео"
+    },
+    {
+      "id": 14,
+      "name": "Ежемес. по новым",
+      "sequence_number": 61,
+      "name-2": "ИТВ для ЮЛ"
+    },
+    {
+      "id": 14,
+      "name": "Ежемес. по новым",
+      "sequence_number": 62,
+      "name-2": "ТВ для Гостиниц"
+    },
+    {
+      "id": 14,
+      "name": "Ежемес. по новым",
+      "sequence_number": 63,
+      "name-2": "ТВ экраны"
+    },
+    {
+      "id": 14,
+      "name": "Ежемес. по новым",
+      "sequence_number": 64,
+      "name-2": "MVNO"
+    },
+    {
+      "id": 14,
+      "name": "Ежемес. по новым",
+      "sequence_number": 65,
+      "name-2": "М2М"
+    },
+    {
+      "id": 14,
+      "name": "Ежемес. по новым",
+      "sequence_number": 66,
+      "name-2": "ВЦОД"
+    },
+    {
+      "id": 14,
+      "name": "Ежемес. по новым",
+      "sequence_number": 67,
+      "name-2": "Колтрекинг"
+    },
+    {
+      "id": 14,
+      "name": "Ежемес. по новым",
+      "sequence_number": 68,
+      "name-2": "Лид"
+    },
+    {
+      "id": 14,
+      "name": "Ежемес. по новым",
+      "sequence_number": 69,
+      "name-2": "Чат"
+    },
+    {
+      "id": 14,
+      "name": "Ежемес. по новым",
+      "sequence_number": 71,
+      "name-2": "Умный офис"
+    },
+    {
+      "id": 14,
+      "name": "Ежемес. по новым",
+      "sequence_number": 73,
+      "name-2": "SEG"
+    },
+    {
+      "id": 15,
+      "name": "Ежемес. по традиц.",
+      "sequence_number": 74,
+      "name-2": "ШПД"
+    },
+    {
+      "id": 15,
+      "name": "Ежемес. по традиц.",
+      "sequence_number": 75,
+      "name-2": "ОТА"
+    },
+    {
+      "id": 15,
+      "name": "Ежемес. по традиц.",
+      "sequence_number": 76,
+      "name-2": "VPN"
+    },
+    {
+      "id": 16,
+      "name": "Разовая выручка",
+      "sequence_number": 77,
+      "name-2": "ВАТС"
+    },
+    {
+      "id": 16,
+      "name": "Разовая выручка",
+      "sequence_number": 78,
+      "name-2": "8-800"
+    },
+    {
+      "id": 16,
+      "name": "Разовая выручка",
+      "sequence_number": 79,
+      "name-2": "WiFi"
+    },
+    {
+      "id": 16,
+      "name": "Разовая выручка",
+      "sequence_number": 80,
+      "name-2": "Видео"
+    },
+    {
+      "id": 16,
+      "name": "Разовая выручка",
+      "sequence_number": 81,
+      "name-2": "ИТВ для ЮЛ"
+    },
+    {
+      "id": 16,
+      "name": "Разовая выручка",
+      "sequence_number": 82,
+      "name-2": "ТВ для Гостиниц"
+    },
+    {
+      "id": 16,
+      "name": "Разовая выручка",
+      "sequence_number": 83,
+      "name-2": "ТВ экраны"
+    },
+    {
+      "id": 16,
+      "name": "Разовая выручка",
+      "sequence_number": 84,
+      "name-2": "MVNO"
+    },
+    {
+      "id": 16,
+      "name": "Разовая выручка",
+      "sequence_number": 85,
+      "name-2": "М2М"
+    },
+    {
+      "id": 16,
+      "name": "Разовая выручка",
+      "sequence_number": 86,
+      "name-2": "ВЦОД"
+    },
+    {
+      "id": 16,
+      "name": "Разовая выручка",
+      "sequence_number": 87,
+      "name-2": "Колтрекинг"
+    },
+    {
+      "id": 16,
+      "name": "Разовая выручка",
+      "sequence_number": 88,
+      "name-2": "Лид"
+    },
+    {
+      "id": 16,
+      "name": "Разовая выручка",
+      "sequence_number": 89,
+      "name-2": "Чат"
+    },
+    {
+      "id": 16,
+      "name": "Разовая выручка",
+      "sequence_number": 91,
+      "name-2": "Умный офис"
+    },
+    {
+      "id": 16,
+      "name": "Разовая выручка",
+      "sequence_number": 93,
+      "name-2": "SEG"
+    },
+    {
+      "id": 16,
+      "name": "Разовая выручка",
+      "sequence_number": 94,
+      "name-2": "ШПД"
+    },
+    {
+      "id": 16,
+      "name": "Разовая выручка",
+      "sequence_number": 95,
+      "name-2": "ОТА"
+    },
+    {
+      "id": 16,
+      "name": "Разовая выручка",
+      "sequence_number": 96,
+      "name-2": "VPN"
+    },
+    {
+      "id": 16,
+      "name": "Разовая выручка",
+      "sequence_number": 97,
+      "name-2": "Прочие"
+    },
+    {
+      "id": 17,
+      "name": "Новые ИНН",
+      "sequence_number": 98,
+      "name-2": "Новые ИНН, шт."
+    },
+    {
+      "id": 18,
+      "name": "Список услуг + ПУСТО",
+      "sequence_number": 1,
+      "name-2": "ШПД"
+    },
+    {
+      "id": 18,
+      "name": "Список услуг + ПУСТО",
+      "sequence_number": 2,
+      "name-2": "ОТА"
+    },
+    {
+      "id": 18,
+      "name": "Список услуг + ПУСТО",
+      "sequence_number": 3,
+      "name-2": "VPN"
+    },
+    {
+      "id": 18,
+      "name": "Список услуг + ПУСТО",
+      "sequence_number": 4,
+      "name-2": "ВАТС"
+    },
+    {
+      "id": 18,
+      "name": "Список услуг + ПУСТО",
+      "sequence_number": 5,
+      "name-2": "8-800"
+    },
+    {
+      "id": 18,
+      "name": "Список услуг + ПУСТО",
+      "sequence_number": 6,
+      "name-2": "WiFi"
+    },
+    {
+      "id": 18,
+      "name": "Список услуг + ПУСТО",
+      "sequence_number": 7,
+      "name-2": "Видео"
+    },
+    {
+      "id": 18,
+      "name": "Список услуг + ПУСТО",
+      "sequence_number": 8,
+      "name-2": "ИТВ для ЮЛ"
+    },
+    {
+      "id": 18,
+      "name": "Список услуг + ПУСТО",
+      "sequence_number": 9,
+      "name-2": "ТВ для Гостиниц"
+    },
+    {
+      "id": 18,
+      "name": "Список услуг + ПУСТО",
+      "sequence_number": 10,
+      "name-2": "ТВ экраны"
+    },
+    {
+      "id": 18,
+      "name": "Список услуг + ПУСТО",
+      "sequence_number": 12,
+      "name-2": "MVNO"
+    },
+    {
+      "id": 18,
+      "name": "Список услуг + ПУСТО",
+      "sequence_number": 13,
+      "name-2": "М2М"
+    },
+    {
+      "id": 18,
+      "name": "Список услуг + ПУСТО",
+      "sequence_number": 14,
+      "name-2": "ВЦОД"
+    },
+    {
+      "id": 18,
+      "name": "Список услуг + ПУСТО",
+      "sequence_number": 15,
+      "name-2": "Колтрекинг"
+    },
+    {
+      "id": 18,
+      "name": "Список услуг + ПУСТО",
+      "sequence_number": 16,
+      "name-2": "Лид"
+    },
+    {
+      "id": 18,
+      "name": "Список услуг + ПУСТО",
+      "sequence_number": 17,
+      "name-2": "Чат"
+    },
+    {
+      "id": 18,
+      "name": "Список услуг + ПУСТО",
+      "sequence_number": 18,
+      "name-2": "Умный офис"
+    },
+    {
+      "id": 18,
+      "name": "Список услуг + ПУСТО",
+      "sequence_number": 20,
+      "name-2": "Прочие"
+    },
+    {
+      "id": 18,
+      "name": "Список услуг + ПУСТО",
+      "sequence_number": 20,
+      "name-2": "SEG"
+    },
+    {
+      "id": 18,
+      "name": "Список услуг + ПУСТО",
+      "sequence_number": 21,
+      "name-2": "ПУСТО"
+    },
+    {
+      "id": 18,
+      "name": "Список услуг + ПУСТО",
+      "sequence_number": 142,
+      "name-2": "ВКС"
+    },
+    {
+      "id": 18,
+      "name": "Список услуг + ПУСТО",
+      "sequence_number": 143,
+      "name-2": "Прочие новые продукты"
+    },
+    {
+      "id": 19,
+      "name": "product_order",
+      "sequence_number": 1,
+      "name-2": "ШПД"
+    },
+    {
+      "id": 19,
+      "name": "product_order",
+      "sequence_number": 2,
+      "name-2": "ОТА"
+    },
+    {
+      "id": 19,
+      "name": "product_order",
+      "sequence_number": 3,
+      "name-2": "VPN"
+    },
+    {
+      "id": 19,
+      "name": "product_order",
+      "sequence_number": 4,
+      "name-2": "ВАТС"
+    },
+    {
+      "id": 19,
+      "name": "product_order",
+      "sequence_number": 5,
+      "name-2": "8-800"
+    },
+    {
+      "id": 19,
+      "name": "product_order",
+      "sequence_number": 6,
+      "name-2": "WiFi"
+    },
+    {
+      "id": 19,
+      "name": "product_order",
+      "sequence_number": 7,
+      "name-2": "Видео"
+    },
+    {
+      "id": 19,
+      "name": "product_order",
+      "sequence_number": 8,
+      "name-2": "ИТВ для ЮЛ"
+    },
+    {
+      "id": 19,
+      "name": "product_order",
+      "sequence_number": 9,
+      "name-2": "ТВ для Гостиниц"
+    },
+    {
+      "id": 19,
+      "name": "product_order",
+      "sequence_number": 10,
+      "name-2": "ТВ экраны"
+    },
+    {
+      "id": 19,
+      "name": "product_order",
+      "sequence_number": 12,
+      "name-2": "М2М"
+    },
+    {
+      "id": 19,
+      "name": "product_order",
+      "sequence_number": 13,
+      "name-2": "MLM"
+    },
+    {
+      "id": 19,
+      "name": "product_order",
+      "sequence_number": 14,
+      "name-2": "Умный офис"
+    },
+    {
+      "id": 19,
+      "name": "product_order",
+      "sequence_number": 15,
+      "name-2": "Мониторинг транспорта"
+    },
+    {
+      "id": 19,
+      "name": "product_order",
+      "sequence_number": 16,
+      "name-2": "ВЦОД"
+    },
+    {
+      "id": 19,
+      "name": "product_order",
+      "sequence_number": 17,
+      "name-2": "Колтрекинг"
+    },
+    {
+      "id": 19,
+      "name": "product_order",
+      "sequence_number": 18,
+      "name-2": "Лид"
+    },
+    {
+      "id": 19,
+      "name": "product_order",
+      "sequence_number": 20,
+      "name-2": "SEG"
+    },
+    {
+      "id": 19,
+      "name": "product_order",
+      "sequence_number": 21,
+      "name-2": "Прочие"
+    },
+    {
+      "id": 20,
+      "name": "План GPO_0001 менеджер",
+      "sequence_number": 1,
+      "name-2": "Ежемесячная выручка по новым услугам, руб."
+    },
+    {
+      "id": 20,
+      "name": "План GPO_0001 менеджер",
+      "sequence_number": 2,
+      "name-2": "Ежемесячная выручка по традиционным услугам, руб."
+    },
+    {
+      "id": 20,
+      "name": "План GPO_0001 менеджер",
+      "sequence_number": 3,
+      "name-2": "Разовая выручка, руб."
+    },
+    {
+      "id": 20,
+      "name": "План GPO_0001 менеджер",
+      "sequence_number": 4,
+      "name-2": "Отток по ОТА, шт."
+    },
+    {
+      "id": 20,
+      "name": "План GPO_0001 менеджер",
+      "sequence_number": 5,
+      "name-2": "Отток по ШПД, шт."
+    },
+    {
+      "id": 20,
+      "name": "План GPO_0001 менеджер",
+      "sequence_number": 6,
+      "name-2": "Сохранённый доход, руб."
+    },
+    {
+      "id": 21,
+      "name": "План GPO_0001 руководитель",
+      "sequence_number": 1,
+      "name-2": "Ежемесячная выручка по новым услугам, руб."
+    },
+    {
+      "id": 21,
+      "name": "План GPO_0001 руководитель",
+      "sequence_number": 2,
+      "name-2": "Ежемесячная выручка по традиционным услугам, руб."
+    },
+    {
+      "id": 21,
+      "name": "План GPO_0001 руководитель",
+      "sequence_number": 3,
+      "name-2": "Разовая выручка, руб."
+    },
+    {
+      "id": 21,
+      "name": "План GPO_0001 руководитель",
+      "sequence_number": 4,
+      "name-2": "Новые ИНН, шт."
+    },
+    {
+      "id": 21,
+      "name": "План GPO_0001 руководитель",
+      "sequence_number": 5,
+      "name-2": "Отток по ОТА, шт."
+    },
+    {
+      "id": 21,
+      "name": "План GPO_0001 руководитель",
+      "sequence_number": 6,
+      "name-2": "Отток по ШПД, шт."
+    },
+    {
+      "id": 21,
+      "name": "План GPO_0001 руководитель",
+      "sequence_number": 7,
+      "name-2": "Плановый размер сохраненного дохода в отчетном периоде, руб"
+    },
+    {
+      "id": 21,
+      "name": "План GPO_0001 руководитель",
+      "sequence_number": 7,
+      "name-2": "Сохранённый доход, руб."
+    },
+    {
+      "id": 22,
+      "name": "План GAP_0003 менеджер",
+      "sequence_number": 43,
+      "name-2": "Ежемесячная выручка по новым услугам, руб."
+    },
+    {
+      "id": 22,
+      "name": "План GAP_0003 менеджер",
+      "sequence_number": 44,
+      "name-2": "Ежемесячная выручка по традиционным услугам, руб."
+    },
+    {
+      "id": 22,
+      "name": "План GAP_0003 менеджер",
+      "sequence_number": 45,
+      "name-2": "Разовая выручка, руб."
+    },
+    {
+      "id": 23,
+      "name": "План GAP_0003 руководитель",
+      "sequence_number": 46,
+      "name-2": "Ежемесячная выручка по новым услугам, руб."
+    },
+    {
+      "id": 23,
+      "name": "План GAP_0003 руководитель",
+      "sequence_number": 47,
+      "name-2": "Ежемесячная выручка по традиционным услугам, руб."
+    },
+    {
+      "id": 23,
+      "name": "План GAP_0003 руководитель",
+      "sequence_number": 48,
+      "name-2": "Разовая выручка, руб."
+    },
+    {
+      "id": 23,
+      "name": "План GAP_0003 руководитель",
+      "sequence_number": 49,
+      "name-2": "Новые ИНН, шт."
+    },
+    {
+      "id": 24,
+      "name": "Факт GAP_0003 менеджер",
+      "sequence_number": 50,
+      "name-2": "Ежемесячная выручка по новым услугам, руб."
+    },
+    {
+      "id": 24,
+      "name": "Факт GAP_0003 менеджер",
+      "sequence_number": 51,
+      "name-2": "Ежемесячная выручка по традиционным услугам, руб."
+    },
+    {
+      "id": 24,
+      "name": "Факт GAP_0003 менеджер",
+      "sequence_number": 52,
+      "name-2": "Разовая выручка, руб."
+    },
+    {
+      "id": 25,
+      "name": "Факт GAP_0003 руководитель",
+      "sequence_number": 53,
+      "name-2": "Ежемесячная выручка по новым услугам, руб."
+    },
+    {
+      "id": 25,
+      "name": "Факт GAP_0003 руководитель",
+      "sequence_number": 54,
+      "name-2": "Ежемесячная выручка по традиционным услугам, руб."
+    },
+    {
+      "id": 25,
+      "name": "Факт GAP_0003 руководитель",
+      "sequence_number": 55,
+      "name-2": "Разовая выручка, руб."
+    },
+    {
+      "id": 25,
+      "name": "Факт GAP_0003 руководитель",
+      "sequence_number": 56,
+      "name-2": "Новые ИНН, шт."
+    },
+    {
+      "id": 26,
+      "name": "План GPH_0002 менеджер",
+      "sequence_number": 43,
+      "name-2": "Ежемесячная выручка по новым услугам, руб."
+    },
+    {
+      "id": 26,
+      "name": "План GPH_0002 менеджер",
+      "sequence_number": 44,
+      "name-2": "Ежемесячная выручка по традиционным услугам, руб."
+    },
+    {
+      "id": 26,
+      "name": "План GPH_0002 менеджер",
+      "sequence_number": 45,
+      "name-2": "Разовая выручка, руб."
+    },
+    {
+      "id": 27,
+      "name": "План GPH_0002 руководитель",
+      "sequence_number": 46,
+      "name-2": "Ежемесячная выручка по новым услугам, руб."
+    },
+    {
+      "id": 27,
+      "name": "План GPH_0002 руководитель",
+      "sequence_number": 47,
+      "name-2": "Ежемесячная выручка по традиционным услугам, руб."
+    },
+    {
+      "id": 27,
+      "name": "План GPH_0002 руководитель",
+      "sequence_number": 48,
+      "name-2": "Разовая выручка, руб."
+    },
+    {
+      "id": 27,
+      "name": "План GPH_0002 руководитель",
+      "sequence_number": 49,
+      "name-2": "Новые ИНН, шт."
+    },
+    {
+      "id": 28,
+      "name": "Факт GPH_0002 менеджер",
+      "sequence_number": 50,
+      "name-2": "Ежемесячная выручка по новым услугам, руб."
+    },
+    {
+      "id": 28,
+      "name": "Факт GPH_0002 менеджер",
+      "sequence_number": 51,
+      "name-2": "Ежемесячная выручка по традиционным услугам, руб."
+    },
+    {
+      "id": 28,
+      "name": "Факт GPH_0002 менеджер",
+      "sequence_number": 52,
+      "name-2": "Разовая выручка, руб."
+    },
+    {
+      "id": 29,
+      "name": "Факт GPH_0002 руководитель",
+      "sequence_number": 53,
+      "name-2": "Ежемесячная выручка по новым услугам, руб."
+    },
+    {
+      "id": 29,
+      "name": "Факт GPH_0002 руководитель",
+      "sequence_number": 54,
+      "name-2": "Ежемесячная выручка по традиционным услугам, руб."
+    },
+    {
+      "id": 29,
+      "name": "Факт GPH_0002 руководитель",
+      "sequence_number": 55,
+      "name-2": "Разовая выручка, руб."
+    },
+    {
+      "id": 29,
+      "name": "Факт GPH_0002 руководитель",
+      "sequence_number": 56,
+      "name-2": "Новые ИНН, шт."
+    },
+    {
+      "id": 30,
+      "name": "Ежемес. по традиц. + Прочие",
+      "sequence_number": 99,
+      "name-2": "Прочие"
+    },
+    {
+      "id": 30,
+      "name": "Ежемес. по традиц. + Прочие",
+      "sequence_number": 100,
+      "name-2": "ШПД"
+    },
+    {
+      "id": 30,
+      "name": "Ежемес. по традиц. + Прочие",
+      "sequence_number": 101,
+      "name-2": "ОТА"
+    },
+    {
+      "id": 30,
+      "name": "Ежемес. по традиц. + Прочие",
+      "sequence_number": 102,
+      "name-2": "VPN"
+    },
+    {
+      "id": 31,
+      "name": "Ежемес. по новым вер. 2",
+      "sequence_number": 103,
+      "name-2": "MVNO"
+    },
+    {
+      "id": 31,
+      "name": "Ежемес. по новым вер. 2",
+      "sequence_number": 104,
+      "name-2": "ВАТС"
+    },
+    {
+      "id": 31,
+      "name": "Ежемес. по новым вер. 2",
+      "sequence_number": 105,
+      "name-2": "WiFi"
+    },
+    {
+      "id": 31,
+      "name": "Ежемес. по новым вер. 2",
+      "sequence_number": 106,
+      "name-2": "8-800"
+    },
+    {
+      "id": 31,
+      "name": "Ежемес. по новым вер. 2",
+      "sequence_number": 107,
+      "name-2": "М2М"
+    },
+    {
+      "id": 31,
+      "name": "Ежемес. по новым вер. 2",
+      "sequence_number": 108,
+      "name-2": "Видео"
+    },
+    {
+      "id": 31,
+      "name": "Ежемес. по новым вер. 2",
+      "sequence_number": 109,
+      "name-2": "ИТВ для ЮЛ"
+    },
+    {
+      "id": 31,
+      "name": "Ежемес. по новым вер. 2",
+      "sequence_number": 110,
+      "name-2": "ТВ для Гостиниц"
+    },
+    {
+      "id": 31,
+      "name": "Ежемес. по новым вер. 2",
+      "sequence_number": 111,
+      "name-2": "ТВ экраны"
+    },
+    {
+      "id": 31,
+      "name": "Ежемес. по новым вер. 2",
+      "sequence_number": 112,
+      "name-2": "ВЦОД"
+    },
+    {
+      "id": 31,
+      "name": "Ежемес. по новым вер. 2",
+      "sequence_number": 113,
+      "name-2": "Колтрекинг"
+    },
+    {
+      "id": 31,
+      "name": "Ежемес. по новым вер. 2",
+      "sequence_number": 114,
+      "name-2": "Лид"
+    },
+    {
+      "id": 31,
+      "name": "Ежемес. по новым вер. 2",
+      "sequence_number": 115,
+      "name-2": "Чат"
+    },
+    {
+      "id": 31,
+      "name": "Ежемес. по новым вер. 2",
+      "sequence_number": 116,
+      "name-2": "Умный офис"
+    },
+    {
+      "id": 31,
+      "name": "Ежемес. по новым вер. 2",
+      "sequence_number": 117,
+      "name-2": "SEG"
+    },
+    {
+      "id": 31,
+      "name": "Ежемес. по новым вер. 2",
+      "sequence_number": 118,
+      "name-2": "ВКС"
+    },
+    {
+      "id": 31,
+      "name": "Ежемес. по новым вер. 2",
+      "sequence_number": 119,
+      "name-2": "Прочие новые продукты"
+    },
+    {
+      "id": 32,
+      "name": "Разовая выручка вер. 2",
+      "sequence_number": 120,
+      "name-2": "ШПД"
+    },
+    {
+      "id": 32,
+      "name": "Разовая выручка вер. 2",
+      "sequence_number": 121,
+      "name-2": "ОТА"
+    },
+    {
+      "id": 32,
+      "name": "Разовая выручка вер. 2",
+      "sequence_number": 122,
+      "name-2": "VPN"
+    },
+    {
+      "id": 32,
+      "name": "Разовая выручка вер. 2",
+      "sequence_number": 123,
+      "name-2": "MVNO"
+    },
+    {
+      "id": 32,
+      "name": "Разовая выручка вер. 2",
+      "sequence_number": 124,
+      "name-2": "ВАТС"
+    },
+    {
+      "id": 32,
+      "name": "Разовая выручка вер. 2",
+      "sequence_number": 125,
+      "name-2": "WiFi"
+    },
+    {
+      "id": 32,
+      "name": "Разовая выручка вер. 2",
+      "sequence_number": 126,
+      "name-2": "8-800"
+    },
+    {
+      "id": 32,
+      "name": "Разовая выручка вер. 2",
+      "sequence_number": 127,
+      "name-2": "М2М"
+    },
+    {
+      "id": 32,
+      "name": "Разовая выручка вер. 2",
+      "sequence_number": 128,
+      "name-2": "Видео"
+    },
+    {
+      "id": 32,
+      "name": "Разовая выручка вер. 2",
+      "sequence_number": 129,
+      "name-2": "ИТВ для ЮЛ"
+    },
+    {
+      "id": 32,
+      "name": "Разовая выручка вер. 2",
+      "sequence_number": 130,
+      "name-2": "ТВ для Гостиниц"
+    },
+    {
+      "id": 32,
+      "name": "Разовая выручка вер. 2",
+      "sequence_number": 131,
+      "name-2": "ТВ экраны"
+    },
+    {
+      "id": 32,
+      "name": "Разовая выручка вер. 2",
+      "sequence_number": 132,
+      "name-2": "ВЦОД"
+    },
+    {
+      "id": 32,
+      "name": "Разовая выручка вер. 2",
+      "sequence_number": 133,
+      "name-2": "Колтрекинг"
+    },
+    {
+      "id": 32,
+      "name": "Разовая выручка вер. 2",
+      "sequence_number": 134,
+      "name-2": "Лид"
+    },
+    {
+      "id": 32,
+      "name": "Разовая выручка вер. 2",
+      "sequence_number": 135,
+      "name-2": "Чат"
+    },
+    {
+      "id": 32,
+      "name": "Разовая выручка вер. 2",
+      "sequence_number": 136,
+      "name-2": "Прочие"
+    },
+    {
+      "id": 32,
+      "name": "Разовая выручка вер. 2",
+      "sequence_number": 137,
+      "name-2": "Умный офис"
+    },
+    {
+      "id": 32,
+      "name": "Разовая выручка вер. 2",
+      "sequence_number": 138,
+      "name-2": "SEG"
+    },
+    {
+      "id": 32,
+      "name": "Разовая выручка вер. 2",
+      "sequence_number": 139,
+      "name-2": "ВКС"
+    },
+    {
+      "id": 32,
+      "name": "Разовая выручка вер. 2",
+      "sequence_number": 140,
+      "name-2": "Прочие новые продукты"
+    }
+  ]
