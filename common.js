@@ -24,14 +24,17 @@ function createHeader(lvl, text, pageTitle) {
     }
 }
 
-function createTable(tableHead, arrTableBody) {
+function createTable(head, arrTableBody) {
     try {
-        const table = $("<table>").addClass("confluenceTable");
-        table.append(tableHead);
+        const divWrap = $("<div>").addClass("table-wrap");
+        const table = $("<table>").addClass("confluenceTable").addClass("wrapped");
+        table.append($("<thead>").append(head));
+        const tableBody = $("<tbody>");
         arrTableBody.forEach(function (row) {
-            table.append($(row).clone());
+            tableBody.append($(row).clone());
         });
-        return table[0];
+        divWrap.append(table.append(tableBody));
+        return divWrap[0];
     } catch (error) {
         console.log("Error in createTable function:", error);
     }
@@ -172,25 +175,23 @@ async function addUsingOnPage(pageType) {
                     if (tbAttr.length) {
                         const h3db = $(`#${pageTitle}-Базаданных`.replace(/ /, '').replace(/\//, '\\/'))[0];
                         let tableHead = $("<tr>");
-                        tableHead.append($("<td>").text("Таблица"));
-                        tableHead.append($("<td>").text("Атрибут"));
+                        tableHead.append($("<th>").addClass("confluenceTh").text("Таблица"));
+                        tableHead.append($("<th>").addClass("confluenceTh").text("Атрибут"));
                         let tableBody = [];
                         for (row of tbAttr) {
                             let tr = $("<tr>");
-                            let link = '';
+                            let dtp;
                             dbTbPages.forEach(function (page) {
                                 if (page.name_en == row.tb) {
-                                    link = page.link;
+                                    dtp = page;
                                 }
                             })
-                            tr.append($("<td>").append($("<a>").attr("href", link).text(row.tb)));
-                            tr.append($("<td>").text(row.attr));
+                            tr.append($("<td>").addClass("confluenceTd").append($("<a>").attr("href", dtp.link).text(`${dtp.name_ru} (${dtp.name_en})`)));
+                            tr.append($("<td>").addClass("confluenceTd").text(row.attr));
                             tableBody.push(tr);
                         };
 
                         const newTable = createTable(tableHead, tableBody);
-                        console.log(tableHead);
-                        console.log(tableBody);
                         h3db.after(newTable);
                     }
                 }
